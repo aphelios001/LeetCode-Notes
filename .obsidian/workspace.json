@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "32dffebe52acf4e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dc1728e774053af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e428b89762d32b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识点/单调栈.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "单调栈"
+            }
+          },
+          {
+            "id": "d00eda8716657b1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "力扣知识点总结/写递归的 思路.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "写递归的 思路"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7de650640f90a01",
+    "type": "split",
+    "children": [
+      {
+        "id": "a868db379d3f8e25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50094d6c20ffcdfe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byModifiedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "34b46cbe864cdadd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "90ebd925d0b60e45",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5
+  },
+  "right": {
+    "id": "26ec5f1430611c30",
+    "type": "split",
+    "children": [
+      {
+        "id": "89d00fad60d3bbad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33c5c6c03ac25a81",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "前缀和题目 总结.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "前缀和题目 总结 的反向链接列表"
+            }
+          },
+          {
+            "id": "7b2e1736073a3007",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "前缀和题目 总结.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "前缀和题目 总结 的出链列表"
+            }
+          },
+          {
+            "id": "3c8378fdfc1b976e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "72378a36cae09cba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "前缀和题目 总结.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "前缀和题目 总结 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "50094d6c20ffcdfe",
+  "lastOpenFiles": [
+    "README.md",
+    "LeetCode-Notes/README.md",
+    "LeetCode-Notes",
+    "新建 文本文档.txt",
+    "力扣知识点总结/递归.png",
+    "力扣知识点总结/写递归的 思路.md",
+    "力扣知识点总结/动态规划思路 个人总结版（不断优化）.md",
+    "力扣知识点总结/前缀和 与 差分 总结.md",
+    "力扣知识点总结/单调栈 总结.md",
+    "力扣知识点总结/焦虑的话看看.md",
+    "力扣知识点总结/向上取整公式.md",
+    "力扣知识点总结/向上取整.png",
+    "力扣知识点总结/差分.png",
+    "力扣知识点总结/单调栈.png",
+    "未命名.md",
+    "未命名.canvas",
+    "软件工程备份/未命名 1.md",
+    "软件工程备份/契约.md",
+    "软件工程备份/未命名.md",
+    "Pasted image 20250425231212.png",
+    "Pasted image 20250425231222.png",
+    "软件工程备份",
+    "力扣知识点总结",
+    "创建链接.md"
+  ]
+}
